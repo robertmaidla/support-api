@@ -1,0 +1,13 @@
+C:\Users\Test\Development\support-api\SupportApi\bin\Release\netcoreapp2.2\SupportApi.deps.json
+C:\Users\Test\Development\support-api\SupportApi\bin\Release\netcoreapp2.2\SupportApi.runtimeconfig.json
+C:\Users\Test\Development\support-api\SupportApi\bin\Release\netcoreapp2.2\SupportApi.runtimeconfig.dev.json
+C:\Users\Test\Development\support-api\SupportApi\bin\Release\netcoreapp2.2\SupportApi.dll
+C:\Users\Test\Development\support-api\SupportApi\bin\Release\netcoreapp2.2\SupportApi.pdb
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.csproj.CoreCompileInputs.cache
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.RazorAssemblyInfo.cache
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.RazorAssemblyInfo.cs
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.AssemblyInfoInputs.cache
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.AssemblyInfo.cs
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.RazorTargetAssemblyInfo.cache
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.dll
+C:\Users\Test\Development\support-api\SupportApi\obj\Release\netcoreapp2.2\SupportApi.pdb
